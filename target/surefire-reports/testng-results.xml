@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-23T09:48:46 IST" name="Suite" finished-at="2021-04-23T09:48:55 IST" duration-ms="9547">
+    <groups>
+    </groups>
+    <test started-at="2021-04-23T09:48:46 IST" name="Test" finished-at="2021-04-23T09:48:55 IST" duration-ms="9547">
+      <class name="mainPackage.fb_login">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:mainPackage.fb_login@6f4a47c7]" started-at="2021-04-23T09:48:46 IST" name="openBrowser" finished-at="2021-04-23T09:48:53 IST" duration-ms="7452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="without_username_without_password()[pri:1, instance:mainPackage.fb_login@6f4a47c7]" started-at="2021-04-23T09:48:53 IST" name="without_username_without_password" finished-at="2021-04-23T09:48:55 IST" duration-ms="2022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- without_username_without_password -->
+      </class> <!-- mainPackage.fb_login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
